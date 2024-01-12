@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
       child: Scaffold(
         backgroundColor: Colors.grey[200],
         body: Column(
-          mainAxisSize: MainAxisSize.min,
+          mainAxisSize: MainAxisSize.min ,
           children: [
             Container(
               color: Colors.white,
